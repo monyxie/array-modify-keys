@@ -1,0 +1,17 @@
+{
+    "name": "monyxie/array-modify-keys",
+    "description": "Helper functions to modify keys in an array.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Monyxie",
+            "email": "monyxie@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "files": ["array_modify_keys.php"]
+    }
+}
